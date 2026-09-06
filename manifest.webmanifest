@@ -1,0 +1,15 @@
+{
+  "name": "RenT · Rent Tracker",
+  "short_name": "RenT",
+  "description": "Tracker de renta, mantenimiento, casa club, contrato y documentos.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f6f2",
+  "theme_color": "#0d6657",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
